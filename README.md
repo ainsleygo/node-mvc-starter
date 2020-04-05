@@ -8,8 +8,8 @@ Name: Ainsley Y. Go
 
 ## Add Student
 
-`![alt text](screens/add-student.png)
+![alt text](screens/add-student.png)
 
 ## Find Student
 
-`![alt text](screens/find-student.png)
+![alt text](screens/find-student.png)
